@@ -1,4 +1,4 @@
-# Bank_Customer_Churn_Analysis with Power BI
+# Bank Customer Churn Analysis with Power BI
 
 
 ## Overview
